@@ -25,9 +25,9 @@ high-surplus watersheds are leaving N removal potential unused.
   18 regions), derived from the first two digits of the HUC-8 code
 
 ## Contents
-| `01_data_description.ipynb` | Mean, median, SD; histograms
+| `01_describe.ipynb` | Mean, median, SD; histograms
 | `02_correlation.ipynb` | Pearson/Spearman, linear regression, scatter plots
-| `03_pca_clustering.ipynb` | PCA, PC weights, k-means, PC1 vs PC2 plot
+| `03_pca_kmeans.ipynb` | PCA, PC weights, k-means, PC1 vs PC2 plot
 | `figures/` | All generated figures (main and supplementary)
 | `requirements.txt` | Python dependencies
 
